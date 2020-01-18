@@ -2,7 +2,7 @@
 # Experience widget.
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Experience"
@@ -37,6 +37,10 @@ date_format = "Jan 2006"
   location = "Connecticut"
   date_start = "2016-01-01"
   date_end = "2016-6-31"
-  description = """Complete thesis regarding optical tweezers at Professor Yongli Zhang's lab."""
+  description = """
+  Jianing was a visiting scholar in Professor Yongli Zhang's lab and completed her undergraduate dissertation regarding optical tweezers there.
+  
+  
+  """
 
 +++
