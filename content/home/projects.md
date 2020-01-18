@@ -75,3 +75,4 @@ subtitle = ""
  css_class = ""
 +++
 
+Jianing Ding, Karthik Kannan, and Susan F. Lu, **What Can Physician-Generated Content Tell Us about Their Performance**, in preparation.
