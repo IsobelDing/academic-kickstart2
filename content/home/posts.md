@@ -65,3 +65,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+Teaching Assistant
+
+- **MGMT 585-00**: IT Project Management, Purdue University, Spring 2020
