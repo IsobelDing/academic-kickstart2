@@ -24,11 +24,7 @@ date_format = "Jan 2006"
   location = "Hong Kong"
   date_start = "2017-09-01"
   date_end = "2018-07-01"
-  description = """
-  Jianing was a Ph.D. student in Department of Logistics and Maritime Studies at HK PolyU. She is fortunately advised by Professor Kai Pan and Chung-Lun Li.
-
-
-  """
+  description = """Jianing was a Ph.D. student in Department of Logistics and Maritime Studies at HK PolyU. She is fortunately advised by Professor Kai Pan and Chung-Lun Li."""
 
 [[experience]]
   title = "Research Assistant"
@@ -37,10 +33,6 @@ date_format = "Jan 2006"
   location = "Connecticut"
   date_start = "2016-01-01"
   date_end = "2016-6-31"
-  description = """
-  Jianing was a visiting scholar in Professor Yongli Zhang's lab and completed her undergraduate dissertation regarding optical tweezers there.
-  
-  
-  """
+  description = """Jianing was a visiting scholar in Professor Yongli Zhang's lab and completed her undergraduate dissertation regarding optical tweezers there."""
 
 +++
